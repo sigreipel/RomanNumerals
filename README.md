@@ -19,7 +19,7 @@ Test Suite
 
 <ins>TechStack:</ins>
 
-Language: Python (100%) 
+Language: Python 
 
 Structure:
 
